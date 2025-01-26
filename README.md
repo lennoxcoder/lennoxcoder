@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lennoxcoder
 - 👀 I’m interested in Front and Back end Web Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Small Projects
 - 📫 How to reach me ...email lennoxcoder@gmail.com
 
